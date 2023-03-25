@@ -1,11 +1,11 @@
 // The trigger word that precedes most commands and will activate the bot
-exports.trigger = "physics";
+exports.trigger = "alpha whore";
 
 // Bot owner information
 exports.owner = {
     "names": {
-        "short": "Cameron",
-        "long": "Cameron Bernhardt"
+        "short": "Ismael",
+        "long": "Ismael Marquez Jimenez"
     },
     "id": "100007016509302" // ID of bot owner (for secure commands, reports, and alerts)
 };
@@ -13,8 +13,8 @@ exports.owner = {
 // Bot information
 exports.bot = {
     "names": {
-        "short": "AØBøt", // Will be used as 'nickname' in chat (remove if same as account name)
-        "long": "AssumeZero Bot" // Name displayed in profile on bot's Facebook account
+        "short": "Alhpa Whore", // Will be used as 'nickname' in chat (remove if same as account name)
+        "long": "Alfajor Bot" // Name displayed in profile on bot's Facebook account
     },
     "id": "100041587845629" // Bot's ID (for security purposes in commands)
 };
